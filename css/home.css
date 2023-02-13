@@ -1,0 +1,67 @@
+body{
+    background-image: url(../images/flow.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: black;
+}
+
+nav article{
+    padding-left: 30px;
+    background:rgb(61, 75, 117);
+    padding: -20%;
+}
+
+nav h1{
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    font-size: 25px;
+
+}
+
+nav ul{
+    list-style-type: none;
+    width:90%;
+    text-align: center
+}
+
+nav li{
+    display: inline;
+    margin: 25px;
+}
+
+nav a{
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+    text-decoration: none;
+    padding: 6px 15px;
+}
+
+nav a:hover, .active {
+    color: black;
+    background: #fff;
+    border-radius: 20px;
+}
+
+#profile-image{
+    width: 500px;
+    margin-left: 0px;
+    margin-top: 155px;
+    opacity: 60%;
+}
+
+div h1{
+    color: aliceblue;
+    font-size: 55px;
+    font-family: 'Orbitron', sans-serif;
+    margin-top: -600px;
+    margin-left: 1300px;
+}
+
+div h2{
+    color: aliceblue;
+    font-size: 75px;
+    font-family: 'Orbitron', sans-serif;
+    margin-top: 10px;
+    margin-left: 1300px;
+}

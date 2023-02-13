@@ -1,0 +1,83 @@
+body{
+    background-image: url(../images/lightbulb.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: black;
+}
+
+nav article{
+    padding-left: 30px;
+    background:rgb(61, 75, 117);
+    padding: -20%;
+}
+
+nav h1{
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    font-size: 25px;
+
+}
+
+nav ul{
+    list-style-type: none;
+    width:90%;
+    text-align: center
+}
+
+nav li{
+    display: inline;
+    margin: 25px;
+}
+
+nav a{
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+    text-decoration: none;
+    padding: 6px 15px;
+}
+
+nav a:hover, .active {
+    color: black;
+    background: #fff;
+    border-radius: 20px;
+}
+
+div article h1{
+    color: white;
+    font-family: 'Orbitron', sans-serif;
+    font-size: 150%;
+    margin-top: 1%;
+    margin-left: 48%
+    
+    
+
+    
+}
+
+.about-me{
+    margin-top;:10%;
+    margin-left: 45%;
+    margin-right:30%;
+    
+}
+
+main div article p{
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    padding-left: 3%;
+    padding-right: 3%;
+    word-spacing: .1rem;
+    font-size: 20px;
+}
+
+div article strong{
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    margin-left: 48%;
+    font-size: 45px;
+}
+
+span{
+    color: red;
+}
